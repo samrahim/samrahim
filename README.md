@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samai Abderrahim
-- 👀 I’m interested in flutter
+- 👀 I’m interested in Flutter
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me here on github or linkedin https://www.linkedin.com/in/rahimsam
 
